@@ -36,11 +36,11 @@ Gli esercizi devono essere svolti manualmente.
 
 
 
-```
+'''
 
 # ✏️ Esercizi — Conversioni con carta e penna
 
----
+'''
 
 > Obiettivo: imparare a eseguire le conversioni tra sistemi di numerazione senza utilizzare calcolatrice, computer o convertitori online.
 
