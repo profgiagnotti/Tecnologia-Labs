@@ -180,8 +180,9 @@ Converti in decimale:
 ```
 
 🟡 Livello 3 — Decimale → Esadecimale
-Esercizio 11
 
+## 📋 Esercizio 11
+```
 Converti:
 
 26₁₀
@@ -200,28 +201,39 @@ Ricorda:
 14 = E
 15 = F
 
-Esercizio 12
+```
+
+## 📋 Esercizio 12
+```
 
 Converti:
 
 75₁₀
 
 in esadecimale.
-Esercizio 13
+```
 
+## 📋 Esercizio 13
+```
 Converti:
 
 128₁₀
 
 in esadecimale.
-Esercizio 14
+```
+
+## 📋 Esercizio 14
+```
 
 Converti:
 
 214₁₀
 
 in esadecimale.
-Esercizio 15
+```
+
+## 📋 Esercizio 15
+```
 
 Converti:
 
@@ -230,3 +242,283 @@ Converti:
 in esadecimale.
 Domanda
 
+Perché 255 è particolarmente importante quando si parla di byte?
+```
+
+🟡 Livello 4 — Esadecimale → Decimale
+Esercizio 16
+
+Converti:
+
+1A₁₆
+
+in decimale.
+Procedimento
+
+Ricorda che:
+
+A = 10
+
+Quindi:
+
+1×16¹ + A×16⁰
+
+Completa il calcolo.
+Esercizio 17
+
+Converti:
+
+2F₁₆
+
+in decimale.
+Esercizio 18
+
+Converti:
+
+4A₁₆
+
+in decimale.
+Esercizio 19
+
+Converti:
+
+9E₁₆
+
+in decimale.
+Esercizio 20
+
+Converti:
+
+FF₁₆
+
+in decimale.
+🟠 Livello 5 — Binario ↔ Esadecimale
+Esercizio 21
+
+Converti direttamente:
+
+10101111₂
+
+in esadecimale.
+Suggerimento
+
+Dividi i bit in gruppi di 4:
+
+1010 1111
+
+Poi utilizza la tabella binario/esadecimale.
+Esercizio 22
+
+Converti:
+
+11010110₂
+
+in esadecimale.
+Esercizio 23
+
+Converti:
+
+11111111₂
+
+in esadecimale.
+Esercizio 24
+
+Converti:
+
+B6₁₆
+
+in binario.
+Suggerimento
+
+Converti ogni cifra esadecimale separatamente:
+
+B → ____ 
+6 → ____
+
+Poi unisci i due gruppi.
+Esercizio 25
+
+Converti:
+
+4A₁₆
+
+in binario.
+🟠 Livello 6 — Binario ↔ Ottale
+Esercizio 26
+
+Converti:
+
+101101₂
+
+in ottale.
+Suggerimento
+
+Raggruppa i bit a tre:
+
+101 101
+
+Esercizio 27
+
+Converti:
+
+11100101₂
+
+in ottale.
+Attenzione
+
+Il numero di bit non è multiplo di 3.
+
+Aggiungi gli zeri necessari a sinistra:
+
+___ 111 001 01
+
+Completa correttamente il raggruppamento.
+Esercizio 28
+
+Converti:
+
+57₈
+
+in binario.
+Esercizio 29
+
+Converti:
+
+245₈
+
+in binario.
+🔴 Livello 7 — Conversioni complete
+Esercizio 30
+
+Converti il numero:
+
+214₁₀
+
+in:
+
+binario
+ottale
+esadecimale
+
+Costruisci una tabella:
+Sistema	Risultato
+Decimale	214
+Binario	
+Ottale	
+Esadecimale	
+Esercizio 31
+
+Partendo da:
+
+10110110₂
+
+trova:
+
+decimale
+ottale
+esadecimale
+
+Esercizio 32
+
+Partendo da:
+
+D6₁₆
+
+trova:
+
+decimale
+binario
+ottale
+
+🔵 Livello 8 — Applicazioni reali
+Esercizio 33 — Colori RGB
+
+Considera il colore:
+
+#4A9EFF
+
+Ogni coppia rappresenta un valore esadecimale.
+
+Converti:
+
+4A → decimale
+9E → decimale
+FF → decimale
+
+Scrivi quindi il valore RGB:
+
+RGB( __ , __ , __ )
+
+Esercizio 34 — Byte
+
+Un byte contiene:
+
+11001010₂
+
+Qual è il suo valore decimale?
+Esercizio 35 — Indirizzo esadecimale
+
+Considera l'indirizzo:
+
+0x2A
+
+Converti 2A in decimale.
+
+Spiega perché il prefisso 0x viene utilizzato per indicare un numero esadecimale.
+Esercizio 36 — Permessi Unix
+
+In Linux trovi:
+
+chmod 755 file.txt
+
+Ricorda:
+
+7 = 111
+5 = 101
+5 = 101
+
+Converti quindi:
+
+755₈
+
+in binario.
+
+Spiega il significato dei tre gruppi.
+🧠 Sfida finale
+Esercizio 37
+
+Un computer memorizza il numero:
+
+11101101₂
+
+Determina:
+
+    il valore decimale;
+    il valore esadecimale;
+    il valore ottale;
+    se può essere rappresentato con un byte;
+    il valore massimo rappresentabile con 8 bit.
+
+Mostra tutti i passaggi.
+🏆 Challenge
+
+Senza utilizzare tabelle o convertitori, converti:
+
+2026₁₀
+
+in:
+
+binario
+ottale
+esadecimale
+
+Poi verifica tutti e tre i risultati.
+Regola
+
+La challenge è completata solo quando riesci a dimostrare che:
+
+binario → decimale
+ottale → decimale
+esadecimale → decimale
+
+producono tutti 2026.
