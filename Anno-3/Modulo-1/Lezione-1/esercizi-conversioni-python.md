@@ -48,7 +48,7 @@ Il laboratorio è organizzato in livelli progressivi:
 ### ✏️ Parte A — Prepariamo Python
 
 ## 📋 Esercizio 1 — Il primo programma
-'''
+```
 Crea un file chiamato:
 
 conversioni.py
@@ -64,4 +64,4 @@ Esegui il programma e verifica che venga visualizzato:
 
 Laboratorio sui sistemi di numerazione
 Benvenuto!
-
+```
