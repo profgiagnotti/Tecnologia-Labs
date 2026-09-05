@@ -64,11 +64,11 @@ Non è sufficiente scrivere:
 
 🟢 Livello 1 — Decimale → Binario
 ## 📋 Esercizio 1
-
+```
 Converti in binario:
 
 13₁₀
-
+```
 Procedimento da utilizzare
 
 Dividi ripetutamente per 2.
@@ -87,7 +87,7 @@ Ricorda:
 
 
 ## 📋 Esercizio 2
-
+```
 Converti:
 
 25₁₀
@@ -95,7 +95,9 @@ Converti:
 in binario.
 
 Mostra tutte le divisioni.
-Esercizio 3
+```
+
+## 📋 Esercizio 3
 
 Converti:
 
@@ -104,7 +106,9 @@ Converti:
 in binario.
 
 Poi verifica il risultato utilizzando le potenze di 2.
-Esercizio 4
+
+
+## 📋 Esercizio 4
 
 Converti:
 
