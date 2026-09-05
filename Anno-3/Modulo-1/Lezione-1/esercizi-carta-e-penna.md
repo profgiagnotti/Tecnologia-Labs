@@ -60,6 +60,7 @@ Non è sufficiente scrivere:
 
 ```text
 214₁₀ = 11010110₂
+```
 
 🟢 Livello 1 — Decimale → Binario
 Esercizio 1
