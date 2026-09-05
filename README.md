@@ -47,7 +47,6 @@ Tecnologia-labs/
 | Laboratorio | Modulo | Lezione | Argomento | Livello |
 |---|---|---|---|---|
 | [Conversioni con carta e penna](./Anno-3/Modulo-1/Lezione-1/esercizi-carta-e-penna.md) | Modulo-1 | Lezione-2 | Conversioni | ⭐ Base |
-| [Conversioni con Python](./Anno-3/Modulo-1/Lezione-1/esercizi-conversioni-python.md) | Modulo-1 | Lezione-3 | Conversioni | ⭐ Base |
 | [Lab Conversioni con Python](./Anno-3/Modulo-1/Lezione-1/lab-convertitori-basi-numeriche.md) | Modulo-1 | Lezione-3 | Conversioni | ⭐ Base |
 
 
