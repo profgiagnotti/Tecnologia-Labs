@@ -233,6 +233,7 @@ in esadecimale.
 ```
 
 ## 📋 Esercizio 15
+
 ```
 
 Converti:
@@ -244,12 +245,14 @@ Domanda
 
 Perché 255 è particolarmente importante quando si parla di byte?
 ```
+```
 
 🟡 Livello 4 — Esadecimale → Decimale
 
 ```
 
 ## 📋 Esercizio 16
+
 ```
 
 Converti:
