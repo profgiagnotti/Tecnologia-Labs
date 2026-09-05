@@ -1,4 +1,4 @@
-# 🌐 Networking-Labs — Prof. Giagnotti
+# 💻 Tecnologia-Labs — Prof. Giagnotti
 
 ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 ![Language](https://img.shields.io/badge/lingua-italiano-green?style=flat-square)
