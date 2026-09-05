@@ -4,7 +4,6 @@
 ![Anno](https://img.shields.io/badge/anno-3-3DE8A0?style=flat-square)
 ![Modulo](https://img.shields.io/badge/modulo-1-3DE8A0?style=flat-square)
 ![Livello](https://img.shields.io/badge/livello-base-FFAA3D?style=flat-square)
-![Tool](https://img.shields.io/badge/tool-Python-3776AB?style=flat-square&logo=python)
 
 > Laboratorio pratico sui sistemi di numerazione — conversioni tra decimale, binario, ottale ed esadecimale.
 
@@ -20,7 +19,6 @@ Al termine del laboratorio sarai in grado di:
 - ✅ Convertire direttamente tra binario ed ottale
 - ✅ Utilizzare correttamente le potenze della base
 - ✅ Risolvere conversioni con carta e penna
-- ✅ Scrivere semplici programmi Python per automatizzare le conversioni
 - ✅ Verificare automaticamente la correttezza dei risultati
 - ✅ Comprendere il rapporto tra rappresentazione numerica e informatica
 
