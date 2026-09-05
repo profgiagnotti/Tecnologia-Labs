@@ -106,7 +106,7 @@ Domande:
 
 Estendiamo la funzione precedente per funzionare con qualunque base tra 2 e 16.
 
-'''python
+```python
 def decimale_a_base(n, base):
     cifre_valide = "0123456789ABCDEF"
     if n == 0:
@@ -122,7 +122,7 @@ def decimale_a_base(n, base):
 print(decimale_a_base(13, 2))   # 1101
 print(decimale_a_base(13, 8))   # 15
 print(decimale_a_base(13, 16))  # D
-'''
+```
 
 Funzioni e concetti usati:
 - `cifre_valide[resto]`: indicizzazione di una stringa per ricavare il carattere corrispondente al resto (utile quando il resto supera 9, es. 10 → 'A')
@@ -140,7 +140,7 @@ Ora il percorso inverso: da una stringa in base *b* al valore decimale.
 
 Metodo: moltiplicare ogni cifra per la base elevata alla posizione (partendo da destra, posizione 0).
 
-'''python
+```python
 def base_a_decimale(numero_str, base):
     cifre_valide = "0123456789ABCDEF"
     numero_str = numero_str.upper()
@@ -153,7 +153,7 @@ def base_a_decimale(numero_str, base):
 print(base_a_decimale("1101", 2))  # 13
 print(base_a_decimale("15", 8))    # 13
 print(base_a_decimale("D", 16))    # 13
-'''
+```
 
 Funzioni e concetti usati:
 - `str.upper()`: converte le lettere in maiuscolo, per gestire sia `"d"` che `"D"`
@@ -170,14 +170,14 @@ Domande:
 
 Combinando le due funzioni precedenti si può convertire da qualunque base a qualunque altra base, passando per il decimale come "ponte" intermedio.
 
-'''python
+```python
 def converti(numero_str, base_partenza, base_arrivo):
     valore_decimale = base_a_decimale(numero_str, base_partenza)
     return decimale_a_base(valore_decimale, base_arrivo)
 
 print(converti("1101", 2, 16))  # D  (da binario a esadecimale)
 print(converti("FF", 16, 2))    # 11111111
-'''
+```
 
 Domanda di riflessione:
 - Perché conviene sempre passare dal decimale invece di scrivere una funzione diretta per ogni coppia di basi (es. binario→esadecimale)?
@@ -188,13 +188,13 @@ Domanda di riflessione:
 
 Crea un piccolo menu interattivo che chieda all'utente il numero, la base di partenza e la base di arrivo:
 
-'''python
+```python
 numero = input("Inserisci il numero: ")
 base_partenza = int(input("Base di partenza: "))
 base_arrivo = int(input("Base di arrivo: "))
 
 print(f"Risultato: {converti(numero, base_partenza, base_arrivo)}")
-'''
+```
 
 Funzioni usate:
 - `input()`: legge una stringa da tastiera
