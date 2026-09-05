@@ -244,12 +244,12 @@ in esadecimale.
 Domanda
 
 Perché 255 è particolarmente importante quando si parla di byte?
-```
+
 ```
 
 🟡 Livello 4 — Esadecimale → Decimale
 
-```
+
 
 ## 📋 Esercizio 16
 
@@ -283,29 +283,43 @@ Converti:
 2F₁₆
 
 in decimale.
-Esercizio 18
+
+
+```
+
+## 📋 Esercizio 18
+```
 
 Converti:
 
 4A₁₆
 
 in decimale.
-Esercizio 19
+```
+
+## 📋 Esercizio 19
+```
 
 Converti:
 
 9E₁₆
 
 in decimale.
-Esercizio 20
+```
+
+## 📋 Esercizio 20
+```
 
 Converti:
 
 FF₁₆
 
 in decimale.
+```
 🟠 Livello 5 — Binario ↔ Esadecimale
-Esercizio 21
+
+## 📋 Esercizio 21
+```
 
 Converti direttamente:
 
@@ -319,21 +333,30 @@ Dividi i bit in gruppi di 4:
 1010 1111
 
 Poi utilizza la tabella binario/esadecimale.
-Esercizio 22
+```
+
+## 📋 Esercizio 22
+```
 
 Converti:
 
 11010110₂
 
 in esadecimale.
-Esercizio 23
+```
+
+## 📋 Esercizio 23
+```
 
 Converti:
 
 11111111₂
 
 in esadecimale.
-Esercizio 24
+```
+
+## 📋 Esercizio 24
+```
 
 Converti:
 
@@ -348,15 +371,22 @@ B → ____
 6 → ____
 
 Poi unisci i due gruppi.
-Esercizio 25
+```
+
+## 📋 Esercizio 25
+```
 
 Converti:
 
 4A₁₆
 
 in binario.
+```
 🟠 Livello 6 — Binario ↔ Ottale
-Esercizio 26
+
+
+## 📋 Esercizio 26
+```
 
 Converti:
 
@@ -369,7 +399,10 @@ Raggruppa i bit a tre:
 
 101 101
 
-Esercizio 27
+```
+
+## 📋 Esercizio 27
+```
 
 Converti:
 
@@ -385,22 +418,32 @@ Aggiungi gli zeri necessari a sinistra:
 ___ 111 001 01
 
 Completa correttamente il raggruppamento.
-Esercizio 28
+```
+
+## 📋 Esercizio 28
+```
 
 Converti:
 
 57₈
 
 in binario.
-Esercizio 29
+```
+
+## 📋 Esercizio 29
+```
 
 Converti:
 
 245₈
 
 in binario.
+```
 🔴 Livello 7 — Conversioni complete
-Esercizio 30
+
+
+## 📋 Esercizio 30
+```
 
 Converti il numero:
 
@@ -418,7 +461,10 @@ Decimale	214
 Binario	
 Ottale	
 Esadecimale	
-Esercizio 31
+```
+
+## 📋 Esercizio 31
+```
 
 Partendo da:
 
@@ -430,7 +476,10 @@ decimale
 ottale
 esadecimale
 
-Esercizio 32
+```
+
+## 📋 Esercizio 32
+```
 
 Partendo da:
 
@@ -441,10 +490,11 @@ trova:
 decimale
 binario
 ottale
-
+```
 🔵 Livello 8 — Applicazioni reali
-Esercizio 33 — Colori RGB
 
+## 📋 Esercizio 33 — Colori RGB
+```
 Considera il colore:
 
 #4A9EFF
@@ -461,15 +511,19 @@ Scrivi quindi il valore RGB:
 
 RGB( __ , __ , __ )
 
-Esercizio 34 — Byte
+```
+
+## 📋 Esercizio 34 - byte
+```
 
 Un byte contiene:
 
 11001010₂
 
 Qual è il suo valore decimale?
-Esercizio 35 — Indirizzo esadecimale
-
+```
+## 📋 Esercizio 35 — Indirizzo esadecimale
+```
 Considera l'indirizzo:
 
 0x2A
@@ -477,7 +531,11 @@ Considera l'indirizzo:
 Converti 2A in decimale.
 
 Spiega perché il prefisso 0x viene utilizzato per indicare un numero esadecimale.
-Esercizio 36 — Permessi Unix
+
+
+```
+## 📋 Esercizio 36 — Permessi Unix
+```
 
 In Linux trovi:
 
@@ -496,8 +554,12 @@ Converti quindi:
 in binario.
 
 Spiega il significato dei tre gruppi.
+```
+
 🧠 Sfida finale
-Esercizio 37
+
+## 📋 Esercizio 37
+```
 
 Un computer memorizza il numero:
 
@@ -512,8 +574,10 @@ Determina:
     il valore massimo rappresentabile con 8 bit.
 
 Mostra tutti i passaggi.
-🏆 Challenge
+```
 
+🏆 Challenge
+```
 Senza utilizzare tabelle o convertitori, converti:
 
 2026₁₀
@@ -534,3 +598,4 @@ ottale → decimale
 esadecimale → decimale
 
 producono tutti 2026.
+```
