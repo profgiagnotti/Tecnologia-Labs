@@ -246,7 +246,11 @@ Perché 255 è particolarmente importante quando si parla di byte?
 ```
 
 🟡 Livello 4 — Esadecimale → Decimale
-Esercizio 16
+
+```
+
+## 📋 Esercizio 16
+```
 
 Converti:
 
@@ -264,7 +268,12 @@ Quindi:
 1×16¹ + A×16⁰
 
 Completa il calcolo.
-Esercizio 17
+
+
+```
+
+## 📋 Esercizio 17
+```
 
 Converti:
 
