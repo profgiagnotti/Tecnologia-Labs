@@ -35,14 +35,12 @@ Il laboratorio prevede la soluzione di esercizi di conversione con carta e penna
 Gli esercizi devono essere svolti manualmente.
 
 
----
 
-# `esercizi-carta-e-penna.md`
+```
 
-```md
 # ✏️ Esercizi — Conversioni con carta e penna
 
-
+---
 
 > Obiettivo: imparare a eseguire le conversioni tra sistemi di numerazione senza utilizzare calcolatrice, computer o convertitori online.
 
