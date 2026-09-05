@@ -98,7 +98,7 @@ Mostra tutte le divisioni.
 ```
 
 ## 📋 Esercizio 3
-
+```
 Converti:
 
 42₁₀
@@ -106,10 +106,10 @@ Converti:
 in binario.
 
 Poi verifica il risultato utilizzando le potenze di 2.
-
+```
 
 ## 📋 Esercizio 4
-
+```
 Converti:
 
 73₁₀
@@ -125,6 +125,8 @@ in binario.
 Verifica
 
 Dopo aver ottenuto il risultato, somma i pesi delle posizioni contenenti 1.
+```
+
 🟢 Livello 2 — Binario → Decimale
 Esercizio 6
 
