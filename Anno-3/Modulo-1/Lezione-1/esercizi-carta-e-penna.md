@@ -38,7 +38,7 @@ Gli esercizi devono essere svolti manualmente.
 
 '''
 
-# ✏️ Esercizi — Conversioni con carta e penna
+## ✏️ Esercizi — Conversioni con carta e penna
 
 '''
 
