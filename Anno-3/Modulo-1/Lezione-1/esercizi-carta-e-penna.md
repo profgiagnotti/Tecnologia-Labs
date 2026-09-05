@@ -42,10 +42,7 @@ Gli esercizi devono essere svolti manualmente.
 ```md
 # ✏️ Esercizi — Conversioni con carta e penna
 
-![Materia](https://img.shields.io/badge/materia-Tecnologia-3DE8A0?style=flat-square)
-![Anno](https://img.shields.io/badge/anno-3-3DE8A0?style=flat-square)
-![Modulo](https://img.shields.io/badge/modulo-1-3DE8A0?style=flat-square)
-![Attività](https://img.shields.io/badge/attività-Carta%20e%20Penna-FFAA3D?style=flat-square)
+
 
 > Obiettivo: imparare a eseguire le conversioni tra sistemi di numerazione senza utilizzare calcolatrice, computer o convertitori online.
 
@@ -65,3 +62,27 @@ Non è sufficiente scrivere:
 
 ```text
 214₁₀ = 11010110₂
+
+🟢 Livello 1 — Decimale → Binario
+Esercizio 1
+
+Converti in binario:
+
+13₁₀
+
+Procedimento da utilizzare
+
+Dividi ripetutamente per 2.
+
+Schema:
+
+13 ÷ 2 = __ resto __
+__ ÷ 2 = __ resto __
+__ ÷ 2 = __ resto __
+...
+
+Ricorda:
+
+    Il risultato finale si legge partendo dall'ultimo resto ottenuto.
+
+
