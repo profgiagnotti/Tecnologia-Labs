@@ -69,7 +69,7 @@ Converti in binario:
 
 13₁₀
 
-Procedimento da utilizzare
+Procedimento da utilizzare:
 
 Dividi ripetutamente per 2.
 
@@ -88,40 +88,35 @@ Ricorda:
 
 ## 📋 Esercizio 2
 ```
-Converti:
+Converti in binario:
 
 25₁₀
-
-in binario.
 
 Mostra tutte le divisioni.
 ```
 
 ## 📋 Esercizio 3
 ```
-Converti:
+Converti in binario:
 
 42₁₀
-
-in binario.
 
 Poi verifica il risultato utilizzando le potenze di 2.
 ```
 
 ## 📋 Esercizio 4
 ```
-Converti:
+Converti in binario:
 
 73₁₀
+```
 
-in binario.
-Esercizio 5
-
-Converti:
+## 📋 Esercizio 5
+```
+Converti in binario:
 
 156₁₀
 
-in binario.
 Verifica
 
 Dopo aver ottenuto il risultato, somma i pesi delle posizioni contenenti 1.
