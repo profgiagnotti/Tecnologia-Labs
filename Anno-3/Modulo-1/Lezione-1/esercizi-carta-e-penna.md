@@ -68,7 +68,7 @@ Non è sufficiente scrivere:
 Converti in binario:
 
 13₁₀
-```
+
 Procedimento da utilizzare
 
 Dividi ripetutamente per 2.
@@ -83,7 +83,7 @@ __ ÷ 2 = __ resto __
 Ricorda:
 
     Il risultato finale si legge partendo dall'ultimo resto ottenuto.
-
+```
 
 
 ## 📋 Esercizio 2
