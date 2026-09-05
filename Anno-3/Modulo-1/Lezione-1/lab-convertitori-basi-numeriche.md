@@ -74,7 +74,7 @@ Algoritmo:
 
 Codice guida:
 
-'''python
+```python
 def decimale_a_binario(n):
     if n == 0:
         return "0"
@@ -87,7 +87,7 @@ def decimale_a_binario(n):
     return "".join(cifre)
 
 print(decimale_a_binario(13))  # 1101
-'''
+```
 
 Funzioni usate:
 - `n % 2`: operatore modulo, restituisce il resto della divisione (0 o 1)
