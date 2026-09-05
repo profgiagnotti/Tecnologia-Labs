@@ -123,13 +123,13 @@ Dopo aver ottenuto il risultato, somma i pesi delle posizioni contenenti 1.
 ```
 
 🟢 Livello 2 — Binario → Decimale
-Esercizio 6
-
-Converti:
+## 📋 Esercizio 6
+```
+Converti in decimale:
 
 1011₂
 
-in decimale.
+
 Procedimento
 
 Scrivi le potenze:
@@ -141,34 +141,44 @@ poi:
 1×2³ + 0×2² + 1×2¹ + 1×2⁰
 
 Completa il calcolo.
-Esercizio 7
+```
 
-Converti:
+## 📋 Esercizio 7
+```
+
+Converti in decimale:
 
 11001₂
 
-in decimale.
-Esercizio 8
+```
 
-Converti:
+## 📋 Esercizio 8
+```
+
+Converti in decimale:
 
 101101₂
 
-in decimale.
-Esercizio 9
+```
 
-Converti:
+## 📋 Esercizio 9
+```
+
+Converti in decimale:
 
 11010110₂
 
-in decimale.
-Esercizio 10
+```
 
-Converti:
+## 📋 Esercizio 10
+```
+
+Converti in decimale:
 
 11110001₂
 
-in decimale.
+```
+
 🟡 Livello 3 — Decimale → Esadecimale
 Esercizio 11
 
