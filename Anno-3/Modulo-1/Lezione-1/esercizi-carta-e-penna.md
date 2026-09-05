@@ -63,7 +63,7 @@ Non è sufficiente scrivere:
 ```
 
 🟢 Livello 1 — Decimale → Binario
-Esercizio 1
+## 📋 Esercizio 1
 
 Converti in binario:
 
@@ -84,29 +84,9 @@ Ricorda:
 
     Il risultato finale si legge partendo dall'ultimo resto ottenuto.
 
-🟢 Livello 1 — Decimale → Binario
-Esercizio 1
 
-Converti in binario:
 
-13₁₀
-
-Procedimento da utilizzare
-
-Dividi ripetutamente per 2.
-
-Schema:
-
-13 ÷ 2 = __ resto __
-__ ÷ 2 = __ resto __
-__ ÷ 2 = __ resto __
-...
-
-Ricorda:
-
-    Il risultato finale si legge partendo dall'ultimo resto ottenuto.
-
-Esercizio 2
+## 📋 Esercizio 2
 
 Converti:
 
