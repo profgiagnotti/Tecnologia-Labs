@@ -85,4 +85,158 @@ Ricorda:
 
     Il risultato finale si legge partendo dall'ultimo resto ottenuto.
 
+🟢 Livello 1 — Decimale → Binario
+Esercizio 1
+
+Converti in binario:
+
+13₁₀
+
+Procedimento da utilizzare
+
+Dividi ripetutamente per 2.
+
+Schema:
+
+13 ÷ 2 = __ resto __
+__ ÷ 2 = __ resto __
+__ ÷ 2 = __ resto __
+...
+
+Ricorda:
+
+    Il risultato finale si legge partendo dall'ultimo resto ottenuto.
+
+Esercizio 2
+
+Converti:
+
+25₁₀
+
+in binario.
+
+Mostra tutte le divisioni.
+Esercizio 3
+
+Converti:
+
+42₁₀
+
+in binario.
+
+Poi verifica il risultato utilizzando le potenze di 2.
+Esercizio 4
+
+Converti:
+
+73₁₀
+
+in binario.
+Esercizio 5
+
+Converti:
+
+156₁₀
+
+in binario.
+Verifica
+
+Dopo aver ottenuto il risultato, somma i pesi delle posizioni contenenti 1.
+🟢 Livello 2 — Binario → Decimale
+Esercizio 6
+
+Converti:
+
+1011₂
+
+in decimale.
+Procedimento
+
+Scrivi le potenze:
+
+2³  2²  2¹  2⁰
+
+poi:
+
+1×2³ + 0×2² + 1×2¹ + 1×2⁰
+
+Completa il calcolo.
+Esercizio 7
+
+Converti:
+
+11001₂
+
+in decimale.
+Esercizio 8
+
+Converti:
+
+101101₂
+
+in decimale.
+Esercizio 9
+
+Converti:
+
+11010110₂
+
+in decimale.
+Esercizio 10
+
+Converti:
+
+11110001₂
+
+in decimale.
+🟡 Livello 3 — Decimale → Esadecimale
+Esercizio 11
+
+Converti:
+
+26₁₀
+
+in esadecimale.
+Procedimento
+
+Dividi per 16.
+
+Ricorda:
+
+10 = A
+11 = B
+12 = C
+13 = D
+14 = E
+15 = F
+
+Esercizio 12
+
+Converti:
+
+75₁₀
+
+in esadecimale.
+Esercizio 13
+
+Converti:
+
+128₁₀
+
+in esadecimale.
+Esercizio 14
+
+Converti:
+
+214₁₀
+
+in esadecimale.
+Esercizio 15
+
+Converti:
+
+255₁₀
+
+in esadecimale.
+Domanda
 
