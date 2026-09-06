@@ -30,7 +30,7 @@ Tecnologia-labs/
 │   └── Modulo-2/                   🔜 in arrivo
 │
 └── Anno-5/                         ← Reti avanzate e livello applicativo
-    ├── Modulo-1/                   🔜 in arrivo
+    ├── Modulo-1/                   ✅ disponibile
     ├── Modulo-2/                   🔜 in arrivo
     ├── Modulo-3/                   🔜 in arrivo
     └── Modulo-4/                   🔜 in arrivo
@@ -101,7 +101,7 @@ Tecnologia-labs/
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-1 | Lezione-x | xxx | ⭐ Base |
+| [Osserva Metodi HTTP](./Anno-5/Modulo-1/Lezione-3/esercizio-http-postman-thunder-client.md) | Modulo-1 | Lezione-3 | HTTP | ⭐ Base |
 
 ### Modulo 2 — x
 
