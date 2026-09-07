@@ -23,19 +23,9 @@ Al termine del laboratorio sarai in grado di riconoscere
 
 ---
 
-
-
-metodo HTTP (GET, POST, ecc.);
-URL;
-query parameters;
-request headers;
-request body;
-response headers;
-response body;
-codici di stato HTTP (200, 201, 400, 404, ecc.).
-
 Nota: non è necessario scrivere codice. Useremo delle API pubbliche per concentrarci esclusivamente sull'osservazione del traffico HTTP.
 
+---
 1. Prima richiesta: una semplice GET
 
 Useremo questa API di test:
