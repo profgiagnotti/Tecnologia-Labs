@@ -26,13 +26,14 @@ Al termine del laboratorio sarai in grado di riconoscere
 Nota: non è necessario scrivere codice. Useremo delle API pubbliche per concentrarci esclusivamente sull'osservazione del traffico HTTP.
 
 ---
-1. Prima richiesta: una semplice GET
+##1. Prima richiesta: una semplice GET
 
 Useremo questa API di test:
 
 https://httpbin.org/get
 
-Con Postman
+###Con Postman
+
 Apri Postman.
 Crea una nuova richiesta HTTP.
 Seleziona il metodo:
@@ -42,7 +43,9 @@ Inserisci:
 https://httpbin.org/get
 
 Premi Send.
-Con Thunder Client
+
+###Con Thunder Client
+
 Apri VS Code.
 Installa l'estensione Thunder Client, se non l'hai già fatto.
 Crea una nuova richiesta.
