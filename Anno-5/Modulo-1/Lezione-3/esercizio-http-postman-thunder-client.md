@@ -533,7 +533,8 @@ Al termine dell'esercizio dovresti saper identificare:
  differenza tra request e response;
  significato di Content-Type;
  differenza tra un errore 4xx e un errore 5xx.
-17. Schema riassuntivo
+ 
+## 17. Schema riassuntivo
 
 Una richiesta HTTP può essere pensata così:
 
