@@ -27,7 +27,7 @@ Nota: non è necessario scrivere codice. Useremo delle API pubbliche per concent
 
 ---
 
-'''
+
 ## 1. Prima richiesta: una semplice GET
 
 Useremo questa API di test:
@@ -57,7 +57,7 @@ https://httpbin.org/get
 
 Premi Send.
 
-'''
+
 
 
 ## 2. Osserviamo la richiesta
@@ -96,7 +96,7 @@ User-Agent: ...
 
 Gli header sono informazioni aggiuntive che accompagnano la richiesta HTTP.
 
-3. Osserviamo la risposta
+## 3. Osserviamo la risposta
 
 Dopo aver premuto Send, osserva la risposta.
 
@@ -122,7 +122,7 @@ response body.
 
 La risposta contiene informazioni sulla richiesta ricevuta dal server.
 
-4. Request e Response
+## 4. Request e Response
 
 Possiamo rappresentare quello che è successo così:
 
@@ -147,7 +147,7 @@ Questa è l'idea fondamentale del protocollo HTTP:
 REQUEST  --->  SERVER
 RESPONSE <---  SERVER
 
-5. Aggiungiamo un Query Parameter
+## 5. Aggiungiamo un Query Parameter
 
 Adesso modifica l'URL:
 
@@ -177,7 +177,7 @@ Prova a ottenere:
 
 https://httpbin.org/get?nome=Mario&corso=HTTP
 
-Domande
+Domande:
 Il metodo HTTP è cambiato?
 ________________________
 
@@ -191,7 +191,7 @@ Qual è la differenza tra URL e query parameters?
 ________________________________________________
 ________________________________________________
 
-6. Osserviamo gli Header
+## 6. Osserviamo gli Header
 
 Adesso aggiungiamo manualmente un header.
 
@@ -228,7 +228,7 @@ ________________________________________________
 ________________________________________________
 ________________________________________________
 
-7. Request Headers e Response Headers
+## 7. Request Headers e Response Headers
 
 È importante distinguere due concetti.
 
@@ -263,7 +263,7 @@ CLIENT                         SERVER
   | <---- Response Headers ----- |
   |                              |
 
-8. Seconda richiesta: POST
+## 8. Seconda richiesta: POST
 
 Adesso facciamo una richiesta che contiene un body.
 
@@ -288,7 +288,7 @@ Nel Body seleziona un formato JSON e inserisci:
 
 Invia la richiesta.
 
-9. Osserviamo il POST
+## 9. Osserviamo il POST
 
 Questa volta abbiamo:
 
@@ -323,7 +323,7 @@ significa:
 
 "Il body della richiesta contiene dati JSON."
 
-10. Esercizio: modifica il JSON
+## 10. Esercizio: modifica il JSON
 
 Modifica il body inserendo informazioni diverse.
 
@@ -352,7 +352,7 @@ ________________________________________________
 Qual è il codice di stato?
 ________________________
 
-11. Provocare un errore: 404
+## 11. Provocare un errore: 404
 
 Ora proviamo a richiedere una risorsa inesistente.
 
@@ -390,7 +390,7 @@ Il server ha ricevuto la richiesta e ha risposto.
 
 Semplicemente, la risorsa richiesta non esiste o non è disponibile a quell'URL.
 
-12. Altri codici di stato
+## 12. Altri codici di stato
 
 Possiamo provare diversi endpoint di httpbin.
 
@@ -438,7 +438,7 @@ https://httpbin.org/status/500
 
 Indica un errore interno del server.
 
-13. Classificazione dei codici HTTP
+## 13. Classificazione dei codici HTTP
 
 I codici HTTP sono divisi in categorie.
 
@@ -455,7 +455,7 @@ Ricorda soprattutto:
 4xx → problema nella richiesta/client
 5xx → problema lato server
 
-14. Esercizio finale
+## 14. Esercizio finale
 
 Adesso prova a completare questa tabella utilizzando Postman o Thunder Client.
 
@@ -472,7 +472,7 @@ Base URL:
 
 https://httpbin.org
 
-15. Mini sfida: analizza una richiesta
+## 15. Mini sfida: analizza una richiesta
 
 Crea questa richiesta:
 
@@ -517,7 +517,7 @@ ________________________
 
 Ora invia la richiesta e confronta le tue risposte con ciò che vedi nel client.
 
-16. Checklist finale
+## 16. Checklist finale
 
 Al termine dell'esercizio dovresti saper identificare:
 
