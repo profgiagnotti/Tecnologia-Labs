@@ -32,7 +32,7 @@ Useremo questa API di test:
 
 https://httpbin.org/get
 
-###Con Postman
+### Con Postman
 
 Apri Postman.
 Crea una nuova richiesta HTTP.
@@ -44,7 +44,7 @@ https://httpbin.org/get
 
 Premi Send.
 
-###Con Thunder Client
+### Con Thunder Client
 
 Apri VS Code.
 Installa l'estensione Thunder Client, se non l'hai già fatto.
