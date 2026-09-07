@@ -26,7 +26,9 @@ Al termine del laboratorio sarai in grado di riconoscere
 Nota: non è necessario scrivere codice. Useremo delle API pubbliche per concentrarci esclusivamente sull'osservazione del traffico HTTP.
 
 ---
-##1. Prima richiesta: una semplice GET
+
+'''
+## 1. Prima richiesta: una semplice GET
 
 Useremo questa API di test:
 
@@ -54,7 +56,11 @@ Inserisci:
 https://httpbin.org/get
 
 Premi Send.
-2. Osserviamo la richiesta
+
+'''
+
+
+## 2. Osserviamo la richiesta
 
 Prima di guardare il risultato, prova a rispondere a queste domande:
 
