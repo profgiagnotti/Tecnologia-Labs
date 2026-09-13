@@ -61,12 +61,12 @@ Premi Send.
 
 
 ## 2. Osserviamo la richiesta
-
+```text
 Prima di guardare il risultato, prova a rispondere a queste domande:
 
 Domande
 
-```text
+
 
 A. Qual è il metodo HTTP?
 
@@ -86,7 +86,7 @@ Sì / No
 D. La richiesta contiene degli header?
 
 Sì / No
-```
+
 
 Apri la sezione Headers del client e osserva gli header inviati automaticamente.
 
@@ -97,18 +97,18 @@ User-Agent: ...
 
 
 Gli header sono informazioni aggiuntive che accompagnano la richiesta HTTP.
-
+```
 ## 3. Osserviamo la risposta
-
+```
 Dopo aver premuto Send, osserva la risposta.
 
 Dovresti vedere un codice simile a:
 
 200 OK
 
-```
+
 Cosa significa 200?
-```
+
 
 Il codice:
 
@@ -125,12 +125,12 @@ response headers;
 response body.
 
 La risposta contiene informazioni sulla richiesta ricevuta dal server.
-
+```
 ## 4. Request e Response
-
+```
 Possiamo rappresentare quello che è successo così:
 
-```
+
 CLIENT
   |
   |  GET /get
@@ -145,7 +145,7 @@ SERVER
   |
   v
 CLIENT
-```
+
 
 Questa è l'idea fondamentale del protocollo HTTP:
 
@@ -195,9 +195,9 @@ ________________________
 Qual è la differenza tra URL e query parameters?
 ________________________________________________
 ________________________________________________
-
+```
 ## 6. Osserviamo gli Header
-
+```
 Adesso aggiungiamo manualmente un header.
 
 Nella sezione Headers aggiungi:
@@ -232,9 +232,9 @@ Scrivi una tua ipotesi:
 ________________________________________________
 ________________________________________________
 ________________________________________________
-
+```
 ## 7. Request Headers e Response Headers
-
+```
 È importante distinguere due concetti.
 
 Request Headers
@@ -267,9 +267,9 @@ CLIENT                         SERVER
   |                              |
   | <---- Response Headers ----- |
   |                              |
-
+```
 ## 8. Seconda richiesta: POST
-
+```
 Adesso facciamo una richiesta che contiene un body.
 
 Usa:
@@ -292,9 +292,9 @@ Nel Body seleziona un formato JSON e inserisci:
 
 
 Invia la richiesta.
-
+```
 ## 9. Osserviamo il POST
-
+```
 Questa volta abbiamo:
 
 POST /post
@@ -327,9 +327,9 @@ Content-Type: application/json
 significa:
 
 "Il body della richiesta contiene dati JSON."
-
+```
 ## 10. Esercizio: modifica il JSON
-
+```
 Modifica il body inserendo informazioni diverse.
 
 Per esempio:
@@ -356,9 +356,9 @@ ________________________________________________
 
 Qual è il codice di stato?
 ________________________
-
+```
 ## 11. Provocare un errore: 404
-
+```
 Ora proviamo a richiedere una risorsa inesistente.
 
 Usa:
@@ -394,9 +394,9 @@ significa che la risorsa richiesta non è stata trovata.
 Il server ha ricevuto la richiesta e ha risposto.
 
 Semplicemente, la risorsa richiesta non esiste o non è disponibile a quell'URL.
-
+```
 ## 12. Altri codici di stato
-
+```
 Possiamo provare diversi endpoint di httpbin.
 
 200 — OK
@@ -442,9 +442,9 @@ https://httpbin.org/status/500
 
 
 Indica un errore interno del server.
-
+```
 ## 13. Classificazione dei codici HTTP
-
+```
 I codici HTTP sono divisi in categorie.
 
 Codici	Categoria	Significato generale
@@ -459,9 +459,9 @@ Ricorda soprattutto:
 2xx → successo
 4xx → problema nella richiesta/client
 5xx → problema lato server
-
+```
 ## 14. Esercizio finale
-
+```
 Adesso prova a completare questa tabella utilizzando Postman o Thunder Client.
 
 URL	Metodo	Status Code	Request Body	Osservazioni
@@ -476,9 +476,9 @@ URL	Metodo	Status Code	Request Body	Osservazioni
 Base URL:
 
 https://httpbin.org
-
+```
 ## 15. Mini sfida: analizza una richiesta
-
+```
 Crea questa richiesta:
 
 POST https://httpbin.org/post
@@ -521,9 +521,9 @@ ________________________
 
 
 Ora invia la richiesta e confronta le tue risposte con ciò che vedi nel client.
-
+```
 ## 16. Checklist finale
-
+```
 Al termine dell'esercizio dovresti saper identificare:
 
  metodo HTTP;
@@ -538,9 +538,9 @@ Al termine dell'esercizio dovresti saper identificare:
  differenza tra request e response;
  significato di Content-Type;
  differenza tra un errore 4xx e un errore 5xx.
-
+```
 ## 17. Schema riassuntivo
-
+```
 Concetto fondamentale
 
 Quando usi Postman o Thunder Client, non limitarti a guardare se la risposta "funziona".
