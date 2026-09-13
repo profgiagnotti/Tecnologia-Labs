@@ -104,7 +104,7 @@ Tecnologia-labs/
 | [Osserva Metodi HTTP](./Anno-5/Modulo-1/Lezione-3/esercizio-http-postman-thunder-client.md) | Modulo-1 | Lezione-3 | HTTP | ⭐ Base |
 | [Socket TCP in JAVA](./Anno-5/Modulo-1/Lezione-5/socket-TCP.zip) | Modulo-1 | Lezione-5 | JAVA | ⭐⭐ Intermedio |
 | [Socket UDP in JAVA](./Anno-5/Modulo-1/Lezione-6/socket-UDP.zip) | Modulo-1 | Lezione-6 | JAVA | ⭐⭐ Intermedio |
-| [Socket Multithread in JAVA](./Anno-5/Modulo-1/Lezione-6/socket-Multithread-TCP.zip) | Modulo-1 | Lezione-7 | JAVA | ⭐⭐ Intermedio |
+| [Socket Multithread in JAVA](./Anno-5/Modulo-1/Lezione-7/socket-Multithread-TCP.zip) | Modulo-1 | Lezione-7 | JAVA | ⭐⭐ Intermedio |
 
 ### Modulo 2 — x
 
