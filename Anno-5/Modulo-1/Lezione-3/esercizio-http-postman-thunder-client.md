@@ -66,6 +66,8 @@ Prima di guardare il risultato, prova a rispondere a queste domande:
 
 Domande
 
+```text
+
 A. Qual è il metodo HTTP?
 
 ________________________
@@ -84,7 +86,7 @@ Sì / No
 D. La richiesta contiene degli header?
 
 Sì / No
-
+```
 
 Apri la sezione Headers del client e osserva gli header inviati automaticamente.
 
@@ -104,7 +106,9 @@ Dovresti vedere un codice simile a:
 
 200 OK
 
+```
 Cosa significa 200?
+```
 
 Il codice:
 
@@ -126,6 +130,7 @@ La risposta contiene informazioni sulla richiesta ricevuta dal server.
 
 Possiamo rappresentare quello che è successo così:
 
+```
 CLIENT
   |
   |  GET /get
@@ -140,7 +145,7 @@ SERVER
   |
   v
 CLIENT
-
+```
 
 Questa è l'idea fondamentale del protocollo HTTP:
 
