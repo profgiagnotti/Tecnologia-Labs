@@ -117,6 +117,7 @@ Tecnologia-labs/
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
 | [App Flask con Docker](./Anno-5/Modulo-3/Lezione-2/flask-docker-app.zip) | Modulo-3 | Lezione-2 | Docker | ⭐⭐⭐ Avanzato |
+| [Apache-PHP con Docker](./Anno-5/Modulo-3/Lezione-3/8.4.6-apache-bullseye.zip) | Modulo-3 | Lezione-3 | Docker | ⭐⭐⭐ Avanzato |
 
 
 
