@@ -32,8 +32,7 @@ Tecnologia-labs/
 └── Anno-5/                         ← Reti avanzate e livello applicativo
     ├── Modulo-1/                   ✅ disponibile
     ├── Modulo-2/                   🔜 in arrivo
-    ├── Modulo-3/                   🔜 in arrivo
-    └── Modulo-4/                   🔜 in arrivo
+    └── Modulo-3/                   ✅ disponibile
     
 
 ```
@@ -117,23 +116,8 @@ Tecnologia-labs/
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-3 | Lezione-x | xxx | ⭐ Base |
+| [App Flask con Docker](./Anno-5/Modulo-3/Lezione-2/flask-docker-app.zip) | Modulo-3 | Lezione-2 | Docker | ⭐⭐⭐ Avanzato |
 
-
-
-
-### Modulo 4 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-4 | Lezione-x | xxx | ⭐ Base |
-
-
-### Modulo 5 — x
-
-| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
-|---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-5 | Lezione-x | xxx | ⭐ Base |
 
 
 ---
