@@ -101,24 +101,30 @@ Tecnologia-labs/
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
 | [Osserva Metodi HTTP](./Anno-5/Modulo-1/Lezione-3/esercizio-http-postman-thunder-client.md) | Modulo-1 | Lezione-3 | HTTP | ⭐ Base |
-| [Socket TCP in JAVA](./Anno-5/Modulo-1/Lezione-5/socket-TCP.zip) | Modulo-1 | Lezione-5 | JAVA | ⭐⭐ Intermedio |
-| [Socket UDP in JAVA](./Anno-5/Modulo-1/Lezione-6/socket-UDP.zip) | Modulo-1 | Lezione-6 | JAVA | ⭐⭐ Intermedio |
-| [Socket Multithread in JAVA](./Anno-5/Modulo-1/Lezione-7/socket-Multithread-TCP.zip) | Modulo-1 | Lezione-7 | JAVA | ⭐⭐ Intermedio |
 
 ### Modulo 2 — x
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [🔜 in arrivo] | Modulo-2 | Lezione-x | xxx | ⭐ Base |
+| [Socket TCP in JAVA](./Anno-5/Modulo-2/Lezione-2/socket-TCP.zip) | Modulo-2 | Lezione-2 | JAVA | ⭐⭐ Intermedio |
+| [Socket UDP in JAVA](./Anno-5/Modulo-2/Lezione-3/socket-UDP.zip) | Modulo-2 | Lezione-3 | JAVA | ⭐⭐ Intermedio |
+| [Socket Multithread in JAVA](./Anno-5/Modulo-2/Lezione-4/socket-Multithread-TCP.zip) | Modulo-2 | Lezione-4 | JAVA | ⭐⭐ Intermedio |
 
 
 ### Modulo 3 — x
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Apache-PHP con Docker](./Anno-5/Modulo-3/Lezione-3/8.4.6-apache-bullseye.zip) | Modulo-3 | Lezione-3 | Docker | ⭐⭐⭐ Avanzato |
-| [App Flask con Docker](./Anno-5/Modulo-3/Lezione-4/flask-docker-app.zip) | Modulo-3 | Lezione-4 | Docker | ⭐⭐⭐ Avanzato |
-| [Apache-PHP-PHPMyAdmin con Docker](./Anno-5/Modulo-3/Lezione-5/Apache-PHP-MySQL-phpMyAdmin.zip) | Modulo-3 | Lezione-5 | Docker | ⭐⭐⭐ Avanzato |
+| [🔜 in arrivo] | Modulo-3 | Lezione-x | xxx | ⭐ Base |
+
+
+### Modulo 4 — x
+
+| Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
+|---|---|---|---|---|---|
+| [Apache-PHP con Docker](./Anno-5/Modulo-4/Lezione-3/8.4.6-apache-bullseye.zip) | Modulo-4 | Lezione-3 | Docker | ⭐⭐⭐ Avanzato |
+| [App Flask con Docker](./Anno-5/Modulo-4/Lezione-4/flask-docker-app.zip) | Modulo-4 | Lezione-4 | Docker | ⭐⭐⭐ Avanzato |
+| [Apache-PHP-PHPMyAdmin con Docker](./Anno-5/Modulo-4/Lezione-5/Apache-PHP-MySQL-phpMyAdmin.zip) | Modulo-4 | Lezione-5 | Docker | ⭐⭐⭐ Avanzato |
 
 
 
