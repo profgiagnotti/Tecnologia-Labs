@@ -118,6 +118,7 @@ Tecnologia-labs/
 |---|---|---|---|---|---|
 | [Apache-PHP con Docker](./Anno-5/Modulo-3/Lezione-3/8.4.6-apache-bullseye.zip) | Modulo-3 | Lezione-3 | Docker | ⭐⭐⭐ Avanzato |
 | [App Flask con Docker](./Anno-5/Modulo-3/Lezione-4/flask-docker-app.zip) | Modulo-3 | Lezione-4 | Docker | ⭐⭐⭐ Avanzato |
+| [Apache-PHP-PHPMyAdmin con Docker](./Anno-5/Modulo-3/Lezione-5/Apache-PHP-MySQL-phpMyAdmin.zip) | Modulo-3 | Lezione-5 | Docker | ⭐⭐⭐ Avanzato |
 
 
 
