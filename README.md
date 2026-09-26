@@ -119,7 +119,7 @@ Tecnologia-labs/
 | [Manipolazione DB in PHP](./Anno-5/Modulo-3/Lezione-2/Script%20inserimento,%20modifica%20e%20cancellazione%20record.zip) | Modulo-3 | Lezione-2 | PHP | ⭐⭐ Intermedio |
 | [Interrogazioni in PHP](./Anno-5/Modulo-3/Lezione-3/Script%20per%20interrogazioni%20al%20db.zip) | Modulo-3 | Lezione-3 | PHP | ⭐⭐ Intermedio |
 | [Sessioni in PHP](./Anno-5/Modulo-3/Lezione-4/Script%20cookies%20e%20sessioni.zip) | Modulo-3 | Lezione-4 | PHP | ⭐⭐ Intermedio |
-| [Accesso area riservata in PHP](./Anno-5/Modulo-3/Lezione-5/Script%20accesso%20all'area%20riservata.zip) | Modulo-3 | Lezione-5 | PHP | ⭐⭐ Intermedio |
+| [Accesso area riservata in PHP](./Anno-5/Modulo-3/Lezione-5/Area-riservata.zip) | Modulo-3 | Lezione-5 | PHP | ⭐⭐ Intermedio |
 | [OOP in PHP](./Anno-5/Modulo-3/Lezione-6/Script-OOP-PHP.zip) | Modulo-3 | Lezione-6 | PHP | ⭐⭐ Intermedio |
 
 
