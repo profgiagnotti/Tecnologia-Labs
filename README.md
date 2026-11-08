@@ -42,8 +42,8 @@ Tecnologia-labs/
 
 | Laboratorio | Modulo | Lezione | Argomento | Livello |
 |---|---|---|---|---|
-| [Conversioni con carta e penna](./Anno-3/Modulo-1/Lezione-1/esercizi-carta-e-penna.md) | Modulo-1 | [Lezione-1](https://profgiagnotti.altervista.org/sistemi-di-numerazione/) | Conversioni | ⭐ Base |
-| [Lab Conversioni con Python](./Anno-3/Modulo-1/Lezione-1/lab-convertitori-basi-numeriche.md) | Modulo-1 | [Lezione-1](https://profgiagnotti.altervista.org/sistemi-di-numerazione/) | Conversioni | ⭐ Base |
+| [Conversioni con carta e penna](./Anno-3/Modulo-1/Lezione-1/esercizi-carta-e-penna.md) | Modulo-1 | [Lezione-1](https://profgiagnotti.it/sistemi-di-numerazione/) | Conversioni | ⭐ Base |
+| [Lab Conversioni con Python](./Anno-3/Modulo-1/Lezione-1/lab-convertitori-basi-numeriche.md) | Modulo-1 | [Lezione-1](https://profgiagnotti.it/sistemi-di-numerazione/) | Conversioni | ⭐ Base |
 
 
 ---
@@ -54,7 +54,7 @@ Tecnologia-labs/
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Gestione dei processi](./Anno-4/Modulo-1/Lezione-1/lab-te-a4-m1-l01-gestione-processi.md) | Modulo-1 | [Lezione-1](https://profgiagnotti.altervista.org/processi-stati-e-pcb/) | Processi | ⭐⭐ Intermedio |
+| [Gestione dei processi](./Anno-4/Modulo-1/Lezione-1/lab-te-a4-m1-l01-gestione-processi.md) | Modulo-1 | [Lezione-1](https://profgiagnotti.it/processi-stati-e-pcb/) | Processi | ⭐⭐ Intermedio |
 
 
 ---
@@ -65,36 +65,36 @@ Tecnologia-labs/
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Osserva Metodi HTTP](./Anno-5/Modulo-1/Lezione-3/esercizio-http-postman-thunder-client.md) | Modulo-1 | [Lezione-3](https://profgiagnotti.altervista.org/la-comunicazione-sul-web-e-il-protocollo-http/) | HTTP | ⭐ Base |
+| [Osserva Metodi HTTP](./Anno-5/Modulo-1/Lezione-3/esercizio-http-postman-thunder-client.md) | Modulo-1 | [Lezione-3](https://profgiagnotti.it/la-comunicazione-sul-web-e-il-protocollo-http/) | HTTP | ⭐ Base |
 
 ### Modulo 2 — Socket
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Socket TCP in JAVA](./Anno-5/Modulo-2/Lezione-2/socket-TCP.zip) | Modulo-2 | [Lezione-2](https://profgiagnotti.altervista.org/java-applicazioni-con-socket-tcp/) | JAVA | ⭐⭐ Intermedio |
-| [Socket UDP in JAVA](./Anno-5/Modulo-2/Lezione-3/socket-UDP.zip) | Modulo-2 | [Lezione-3](https://profgiagnotti.altervista.org/java-applicazioni-con-socket-udp/) | JAVA | ⭐⭐ Intermedio |
-| [Socket Multithread in JAVA](./Anno-5/Modulo-2/Lezione-4/socket-Multithread-TCP.zip) | Modulo-2 | [Lezione-4](https://profgiagnotti.altervista.org/java-server-multithread/) | JAVA | ⭐⭐ Intermedio |
+| [Socket TCP in JAVA](./Anno-5/Modulo-2/Lezione-2/socket-TCP.zip) | Modulo-2 | [Lezione-2](https://profgiagnotti.it/java-applicazioni-con-socket-tcp/) | JAVA | ⭐⭐ Intermedio |
+| [Socket UDP in JAVA](./Anno-5/Modulo-2/Lezione-3/socket-UDP.zip) | Modulo-2 | [Lezione-3](https://profgiagnotti.it/java-applicazioni-con-socket-udp/) | JAVA | ⭐⭐ Intermedio |
+| [Socket Multithread in JAVA](./Anno-5/Modulo-2/Lezione-4/socket-Multithread-TCP.zip) | Modulo-2 | [Lezione-4](https://profgiagnotti.it/java-server-multithread/) | JAVA | ⭐⭐ Intermedio |
 
 
 ### Modulo 3 — PHP
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Script introduttivi in PHP](./Anno-5/Modulo-3/Lezione-1/Script%20introduttivi%20php.zip) | Modulo-3 | [Lezione-1](https://profgiagnotti.altervista.org/php-linguaggio-di-programmazione-lato-server/) | PHP | ⭐⭐ Intermedio |
-| [Manipolazione DB in PHP](./Anno-5/Modulo-3/Lezione-2/Script%20inserimento,%20modifica%20e%20cancellazione%20record.zip) | Modulo-3 | [Lezione-2](https://profgiagnotti.altervista.org/php-inserimento-modifica-e-cancellazione-di-record/) | PHP | ⭐⭐ Intermedio |
-| [Interrogazioni in PHP](./Anno-5/Modulo-3/Lezione-3/Script%20per%20interrogazioni%20al%20db.zip) | Modulo-3 | [Lezione-3](https://profgiagnotti.altervista.org/php-interrogazioni-al-database-in-php-sql-injection/) | PHP | ⭐⭐ Intermedio |
-| [Sessioni in PHP](./Anno-5/Modulo-3/Lezione-4/Script%20cookies%20e%20sessioni.zip) | Modulo-3 | [Lezione-4](https://profgiagnotti.altervista.org/le-sessioni-e-i-cookies-in-php/) | PHP | ⭐⭐ Intermedio |
-| [Accesso area riservata in PHP](./Anno-5/Modulo-3/Lezione-5/Area-riservata.zip) | Modulo-3 | [Lezione-5](https://profgiagnotti.altervista.org/accesso-allarea-riservata-in-php/) | PHP | ⭐⭐ Intermedio |
-| [OOP in PHP](./Anno-5/Modulo-3/Lezione-6/Script-OOP-PHP.zip) | Modulo-3 | [Lezione-6](https://profgiagnotti.altervista.org/il-paradigma-ad-oggetti-in-php/) | PHP | ⭐⭐ Intermedio |
+| [Script introduttivi in PHP](./Anno-5/Modulo-3/Lezione-1/Script%20introduttivi%20php.zip) | Modulo-3 | [Lezione-1](https://profgiagnotti.it/php-linguaggio-di-programmazione-lato-server/) | PHP | ⭐⭐ Intermedio |
+| [Manipolazione DB in PHP](./Anno-5/Modulo-3/Lezione-2/Script%20inserimento,%20modifica%20e%20cancellazione%20record.zip) | Modulo-3 | [Lezione-2](https://profgiagnotti.it/php-inserimento-modifica-e-cancellazione-di-record/) | PHP | ⭐⭐ Intermedio |
+| [Interrogazioni in PHP](./Anno-5/Modulo-3/Lezione-3/Script%20per%20interrogazioni%20al%20db.zip) | Modulo-3 | [Lezione-3](https://profgiagnotti.it/php-interrogazioni-al-database-in-php-sql-injection/) | PHP | ⭐⭐ Intermedio |
+| [Sessioni in PHP](./Anno-5/Modulo-3/Lezione-4/Script%20cookies%20e%20sessioni.zip) | Modulo-3 | [Lezione-4](https://profgiagnotti.it/le-sessioni-e-i-cookies-in-php/) | PHP | ⭐⭐ Intermedio |
+| [Accesso area riservata in PHP](./Anno-5/Modulo-3/Lezione-5/Area-riservata.zip) | Modulo-3 | [Lezione-5](https://profgiagnotti.it/accesso-allarea-riservata-in-php/) | PHP | ⭐⭐ Intermedio |
+| [OOP in PHP](./Anno-5/Modulo-3/Lezione-6/Script-OOP-PHP.zip) | Modulo-3 | [Lezione-6](https://profgiagnotti.it/il-paradigma-ad-oggetti-in-php/) | PHP | ⭐⭐ Intermedio |
 
 
 ### Modulo 4 — Container e Microservizi
 
 | Laboratorio | Modulo | Lezione | Argomento | Tool | Livello |
 |---|---|---|---|---|---|
-| [Apache-PHP con Docker](./Anno-5/Modulo-4/Lezione-3/8.4.6-apache-bullseye.zip) | Modulo-4 | [Lezione-3](https://profgiagnotti.altervista.org/docker-hub-pull-di-immagini-ufficiali-e-creazione-di-container/) | Docker | ⭐⭐⭐ Avanzato |
-| [App Flask con Docker](./Anno-5/Modulo-4/Lezione-4/flask-docker-app.zip) | Modulo-4 | [Lezione-4](https://profgiagnotti.altervista.org/dockerfile-personalizzazione-di-immagini-e-push-su-docker-hub/) | Docker | ⭐⭐⭐ Avanzato |
-| [Apache-PHP-PHPMyAdmin con Docker](./Anno-5/Modulo-4/Lezione-5/Apache-PHP-MySQL-phpMyAdmin.zip) | Modulo-4 | [Lezione-5](https://profgiagnotti.altervista.org/docker-compose-creazione-di-un-ambiente-con-apache-php-mysql-e-phpmyadmin/) | Docker | ⭐⭐⭐ Avanzato |
+| [Apache-PHP con Docker](./Anno-5/Modulo-4/Lezione-3/8.4.6-apache-bullseye.zip) | Modulo-4 | [Lezione-3](https://profgiagnotti.it/docker-hub-pull-di-immagini-ufficiali-e-creazione-di-container/) | Docker | ⭐⭐⭐ Avanzato |
+| [App Flask con Docker](./Anno-5/Modulo-4/Lezione-4/flask-docker-app.zip) | Modulo-4 | [Lezione-4](https://profgiagnotti.it/dockerfile-personalizzazione-di-immagini-e-push-su-docker-hub/) | Docker | ⭐⭐⭐ Avanzato |
+| [Apache-PHP-PHPMyAdmin con Docker](./Anno-5/Modulo-4/Lezione-5/Apache-PHP-MySQL-phpMyAdmin.zip) | Modulo-4 | [Lezione-5](https://profgiagnotti.it/docker-compose-creazione-di-un-ambiente-con-apache-php-mysql-e-phpmyadmin/) | Docker | ⭐⭐⭐ Avanzato |
 
 
 
@@ -113,7 +113,7 @@ Hai trovato un errore o vuoi aggiungere un laboratorio?
 
 ## 🔗 Seguimi
 
-- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.altervista.org)
+- 🌐 **Sito web:** [prof giagnotti](https://profgiagnotti.it)
 - ▶️ **YouTube:** [Youtube](https://youtube.com/@profgiagnotti)
 - 💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/mariogiagnotti/)
 - ⓕ **Facebook** [Facebook](https://www.facebook.com/profgiagnotti.it)
